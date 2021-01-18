@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117252210736",
+    "project_id": "ecommerce-shop-shop",
+    "storage_bucket": "ecommerce-shop-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117252210736:android:d4c730083e96755eb8edf5",
+        "android_client_info": {
+          "package_name": "com.avisha.ecommerce_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117252210736-jlpe5346qgp16q9j94en5h86saje9fh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIreOUoY_AhnfadDxbQVoodyNdCmqRCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117252210736-jlpe5346qgp16q9j94en5h86saje9fh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
